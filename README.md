@@ -19,13 +19,13 @@ Alex registers on Angusta, they are directed to the user dashboard after registr
 
 # Stacks & Software used for this project
 
-HTML
-CSS
-JAVASCRIPT
-PHP
-EmailJs
-SLACK
-XAMPP
-MySQL
-VSCode
-miro
+- HTML
+- CSS
+- JAVASCRIPT
+- PHP
+- EmailJs
+- SLACK
+- XAMPP
+- MySQL
+- VSCode
+- miro
